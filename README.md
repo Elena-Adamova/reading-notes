@@ -1,9 +1,7 @@
 # MY READING JOURNAL
 My reading journal for ***Code Fellows***
 
-_Hi, My name is Elena Adamova and here is my **GitHub profile page**:_
-
-[https://github.com/Elena-Adamova](https://github.com/Elena-Adamova)
+_Hi, My name is Elena Adamova and here is my [**GitHub profile page**](https://elena-adamova.github.io/reading-notes/)_
 
 ## What is growth mindset?
 
