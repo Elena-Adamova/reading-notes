@@ -7,7 +7,7 @@ _Hi, My name is Elena Adamova and here is my **GitHub profile page**:_
 
 ## What is growth mindset?
 
-> _In my own words ***growth mindset*** is to be motivated to work to improve skills and to learn new things to make this way more interesting and productive._
+> _In my own words **growth mindset** is to be motivated to work to improve skills and to learn new things to make this way more interesting and productive._
 
 ### 3 reminders to myself of how to keep myself in a growth mindset:
 
