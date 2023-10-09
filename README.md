@@ -1,13 +1,13 @@
 # MY READING JOURNAL
 My reading journal for ***Code Fellows***
 
-_Hi, My name is Elena Adamova and here is my **GitHub profile page**:_
+_Hi, My name is Elena Adamova :relaxed: and here is my **GitHub profile page**:_
 
 [https://github.com/Elena-Adamova](https://github.com/Elena-Adamova)
 
-## What is growth mindset?
+## What is growth mindset? :rocket:
 
-_In my own words ***_growth mindset_*** is to be motivated to work to improve skills and to learn new things to make this way more interesting and productive._
+> _In my own words ***_growth mindset_*** is to be motivated to work to improve skills and to learn new things to make this way more interesting and productive._
 
 ### 3 reminders to myself of how to keep myself in a growth mindset:
 
