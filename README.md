@@ -1,5 +1,5 @@
 # MY READING JOURNAL
-My reading journal for ***Code Fellows***
+My reading journal for ***Code Fellows*** :computer:
 
 _Hi, My name is Elena Adamova :relaxed: and here is my **GitHub profile page**:_
 
@@ -11,9 +11,9 @@ _Hi, My name is Elena Adamova :relaxed: and here is my **GitHub profile page**:_
 
 ### 3 reminders to myself of how to keep myself in a growth mindset:
 
-+ Think about my goals like I've already achieved them
++ Think about my goals like I've already achieved them.
 
-+ Get inspiration by other people
++ Get inspiration by other people.
 
-+ Speaking up when something isn't working and asking for support
++ Speaking up when something isn't working and asking for support.
 
