@@ -3,11 +3,11 @@ My reading journal for ***Code Fellows***
 
 _Hi, My name is Elena Adamova and here is my [**GitHub profile page**](https://elena-adamova.github.io/reading-notes/)_
 
-## What is growth mindset?
+#### What is growth mindset?
 
 > _In my own words **growth mindset** is to be motivated to work to improve skills and to learn new things to make this way more interesting and productive._
 
-### 3 reminders to myself of how to keep myself in a growth mindset:
+#### 3 reminders to myself of how to keep myself in a growth mindset:
 
 + Think about my goals like I've already achieved them.
 
@@ -15,7 +15,7 @@ _Hi, My name is Elena Adamova and here is my [**GitHub profile page**](https://e
 
 + Speaking up when something isn't working and asking for support.
 
-# Some things about Markdown?
+# Some things about Markdown.
 
 1. Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
 
