@@ -1,47 +1,55 @@
 # MY READING JOURNAL
 My reading journal for ***Code Fellows***
 
-_Hi, My name is Elena Adamova and here is my [**GitHub profile page**](https://elena-adamova.github.io/reading-notes/)_
+_Hi, My name is Elena Adamova. [**Here is my GitHub profile page.**](https://github.com/elena-adamova)_
 
-#### What is growth mindset?
+## Code 102 [Reading Notes](https://elena-adamova.github.io/reading-notes)
 
-> _In my own words **growth mindset** is to be motivated to work to improve skills and to learn new things to make this way more interesting and productive._
 
-#### 3 reminders to myself of how to keep myself in a growth mindset:
++ [Class 01: Learning Markdown](https://elena-adamova.github.io/reading-notes/markdown)
 
-+ Think about my goals like I've already achieved them.
++ [Class 02: The Coder's Computer](https://elena-adamova.github.io/reading-notes/texteditor)
 
-+ Get inspiration by other people.
++ [Class 03: Revisions and the Cloud](https://elena-adamova.github.io/reading-notes/class03)
 
-+ Speaking up when something isn't working and asking for support.
++ [Class 04: Structure web pages with HTML](https://elena-adamova.github.io/reading-notes/class04)
 
-# Some things about Markdown.
++ [Class 05: Design web pages with CSS](https://elena-adamova.github.io/reading-notes/class05)
 
-1. Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
++ [Class 06: Dynamic web pages with JavaScript](https://elena-adamova.github.io/reading-notes/class06)
 
-2. There are several reasons why people use Markdown:
++ [Class 07: Programming with JavaScript](https://elena-adamova.github.io/reading-notes/class07)
 
-    + Markdown can be used for everything.
-    + Markdown is portable.
-    + Markdown is platform independent.
-    + Markdown is future proof.
-    + Markdown is everywhere.
++ [Class 08: Operators and Loops](https://elena-adamova.github.io/reading-notes/class08)
 
-3. To create a heading, add number signs (#) in front of a word or phrase.
+## Code 201 Reading Notes
 
-    + # To create the largest heading you need to use one number sign (e.g., # My Header).
++ [Class 01]()
 
-    + ###### To create the smallest heading you need to use six number signs (e.g., ###### My Header).
++ [Class 02]()
 
-4. When making text **bold** for emphasis, it is best practice to use two asterisks or underscores before and after a word or phrase.
++ [Class 03]()
 
-    To *italicize* text, add one asterisk or underscore before and after a word or phrase.
++ [Class 04]()
 
-5. To create a link, enclose the link text in brackets (e.g., [my GitHub profile page]) and then follow it immediately with the URL in parentheses (e.g., (https://github.com/Elena-Adamova)).
++ [Class 05]()
 
-    The rendered output looks like this:
++ [Class 06]()
 
-    There is [my GitHub profile page](https://github.com/elena-adamova).
++ [Class 07]()
 
-6. To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.
++ [Class 08]()
 
++ [Class 09]()
+
++ [Class 10]()
+
++ [Class 11]()
+
++ [Class 12]()
+
++ [Class 13]()
+
++ [Class 14]()
+
++ [Class 15]()
