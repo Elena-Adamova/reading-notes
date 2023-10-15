@@ -3,7 +3,7 @@ My reading journal for ***Code Fellows***
 
 _Hi, My name is Elena Adamova. [**Here is my GitHub profile page.**](https://github.com/elena-adamova)_
 
-## Code 102 [Reading Notes](https://elena-adamova.github.io/reading-notes)
+## Code 102 Reading Notes:
 
 
 + [Class 01: Learning Markdown](https://elena-adamova.github.io/reading-notes/102/class01)
@@ -22,7 +22,7 @@ _Hi, My name is Elena Adamova. [**Here is my GitHub profile page.**](https://git
 
 + [Class 08: Operators and Loops](https://elena-adamova.github.io/reading-notes/102/class08)
 
-## Code 201 Reading Notes
+## Code 201 Reading Notes:
 
 + [Class 01](https://elena-adamova.github.io/reading-notes/201/class01)
 
