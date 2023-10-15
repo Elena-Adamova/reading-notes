@@ -1,4 +1,4 @@
-# MY READING JOURNAL
+# MY READING JOURNAL (TEST)
 My reading journal for ***Code Fellows***
 
 _Hi, My name is Elena Adamova and here is my [**GitHub profile page**](https://elena-adamova.github.io/reading-notes/)_
